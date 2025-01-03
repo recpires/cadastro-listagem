@@ -2,8 +2,10 @@
 
 ## Tecnologias, ferramentas e bibliotecas utilizadas
 1. Python
-2. VSCode
-3. Tkinter
+2. Tkinter
+3. VSCode
+4. Git
+5. GitHub
 
 
 <table align="center">
